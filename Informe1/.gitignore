@@ -1,0 +1,46 @@
+# Cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Cache de compiladores C/C++
+*.o
+*.obj
+*.exe
+*.out
+*.so
+*.dylib
+*.dll
+
+# Archivos temporales
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# Archivos de resultados (opcional)
+resultado_*.txt
+*.csv
+*.png
+
+# Directorios de cache
+.cache/
+.pytest_cache/
